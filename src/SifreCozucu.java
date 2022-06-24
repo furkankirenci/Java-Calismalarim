@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SifreCozucu {
     public static void main(String[] args) {
+        //Şifre tahmin etmeye çalışıyoruz.
         Scanner input = new Scanner(System.in);
         System.out.print("tahmin edilecek sayi max kac basamakli olsun : ");
         int n = input.nextInt();
