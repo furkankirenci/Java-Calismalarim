@@ -66,6 +66,7 @@ public class SifreCozucu {
                 }
             }
         }
+    
 
         if (number == guess) {
             System.out.println("Win");
