@@ -1,2 +1,2 @@
 # JAVA Çalışmalarım
-Burada Java Çalışmalarım yer alacaktır.
+Burada Java çalışmalarım yer alacaktır.
