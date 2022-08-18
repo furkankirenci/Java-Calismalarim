@@ -32,7 +32,7 @@ public class LongestWord {
     public static void main(String[] args) {
         // keep this function call here
         Scanner a = new Scanner(System.in);
-        String s = "What is the longest word??";
+        String s = "ıakd lawkjd alwdj oawdk paowdk powd kapowawegrkd apoşwdk ";
         System.out.print(LongestWord(s));
     }
 }

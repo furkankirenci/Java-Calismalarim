@@ -65,17 +65,16 @@ public class SifreCozucu {
                     break;
                 }
             }
-            System.out.println();
         }
-        
+
 
         if (number == guess) {
             System.out.println("Win");
             isCorrect = true;
         } else {
             System.out.println(correctPlaceCounter + " dogru yer " + wrongPlaceCounter + " yanlis yer");
+            System.out.println();
         }
         return isCorrect;
     }
-    
 }
